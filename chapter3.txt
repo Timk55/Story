@@ -1,1 +1,2 @@
-Here also is my first line of code in my chapter 3 file.
+Here also is my first (not so much branching code here) line of code in my chapter 3 file.
+More branching text here.
